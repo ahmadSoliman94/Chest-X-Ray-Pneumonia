@@ -1,1 +1,1 @@
-# 14 different disease classification
+# Pneumonia classification
