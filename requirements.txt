@@ -1,0 +1,13 @@
+torch
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+imbalanced-learn
+tqdm
+albumentations
+torchvision
+efficientnet_pytorch
+mlxtend
+streamlit
